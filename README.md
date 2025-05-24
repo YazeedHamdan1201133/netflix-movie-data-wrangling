@@ -1,8 +1,5 @@
 # netflix-movie-data-wrangling
 
-# Movie Data Wrangling and Analysis Project
-# 🎬 Movie Data Wrangling and Analysis Project
-
 ## 📁 Project Overview
 
 This project demonstrates real-world data wrangling and analysis using two movie-related datasets. It simulates challenges analysts face when working with raw, messy data, and showcases techniques to clean and prepare data for meaningful insights.
